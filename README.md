@@ -12,9 +12,9 @@
 `결과 해석 및 인사이트 도출`:  클러스터링 평가 지표인 세가지 지수를 통한 모델로 결과 해석 및 최종 선정 군집으로 인사이트 도출<br>
 
 ## 멤버
-`김기훈` <br>
-`황도희` <br>
-`이정은` <br>
+`김기훈`-- <br>
+`황도희`-- <br>
+`이정은`-- <br>
 
 ## Tools
 <img src="https://geopy.readthedocs.io/en/stable/_images/logo-wide.png" width="80" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="80" height="40"/>
