@@ -32,8 +32,8 @@
 
 ## Branch
 
-main-d: `황도희`의 branch
-main-g: `김기훈`의 branch
+main-d: `황도희`의 branch  
+main-g: `김기훈`의 branch  
 main-j: `이정은`의 branch
 
 ## 파일 설명
