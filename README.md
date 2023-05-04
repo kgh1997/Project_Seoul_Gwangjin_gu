@@ -11,7 +11,7 @@
 `모델링`:  비선형 차원 축소 알고리즘인 **UMAP** 을 이용한 차원축소 후 밀도 기반 클러스터링 알고리즘인 **Hdbscan** 으로 군집 추출   추출한 군집들을 분석을 통한 점수 추출   
 `결과 해석 및 인사이트 도출`:  클러스터링 평가 지표인 세가지 지수를 통한 모델로 결과 해석 및 최종 선정 군집으로 인사이트 도출<br>
 
-## Members
+## 멤버
 `김기훈` <br>
 `황도희` <br>
 `이정은` <br>
@@ -29,4 +29,3 @@
 <img src="https://umap-learn.readthedocs.io/en/latest/_images/logo_large.png" width="80" height="40"/>
 <img src="https://pythonfix.com/pkg/h/hdbscan/hdbscan-banner.webp" width="80" height="40"/>
 <img src="https://blog.kakaocdn.net/dn/bTkfpq/btq7FiGInAo/jMtmvrEsdsKBzf87z0mdK1/img.png" width="80" height="40"/>
-## References
