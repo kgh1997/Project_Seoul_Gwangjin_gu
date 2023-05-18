@@ -38,5 +38,5 @@ main-j: `이정은`의 branch
 `Clustering.ipynb`-- 전처리가 완료된 데이터를 불러와 과정에 맞춰 클러스터링을 진행했던 파일입니다.  
 `Preprocessing.ipynb`-- 우리가 목표하고자 했던 모델에 맞춰 전처리를 진행했던 파일입니다.  
 `label.ipynb`-- 추출한 군집을 바탕으로 분석 및 인사이트를 도출을 진행했던 파일입니다.  
-`parking-demand.ipynb`-- 주차수요지수 데이터를 추출했던 파일입니다.
-'GG_parking_Result_Report.pdf`-- 공모전 결과물 pdf 파일입니다.
+`parking-demand.ipynb`-- 주차수요지수 데이터를 추출했던 파일입니다.  
+`GG_parking_Result_Report.pdf`-- 공모전 결과물 pdf 파일입니다.
